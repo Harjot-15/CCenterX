@@ -1,8 +1,7 @@
 # CCentreX
-It sS System Utitlies That Includes   Windows 11  ➡️➡️➡️ 🔋Power Commands , 📁 Secret Explorer Folder Shortcuts, 🛠️ Maintenance and Repair Comands, 🔐 Security And Adminstaration Comands, 💻 System Components and Many More.
+It is a System Utitlies Tool That Includes   Windows 11  ➡️➡️➡️ 🔋Power Commands , 📁 Secret Explorer Folder Shortcuts, 🛠️ Maintenance and Repair Comands, 🔐 Security And Adminstaration Comands, 💻 System Components and Many More.
 
 
-```markdown
 # CCentreX
 
 Welcome to the CCentreX repository! This guide provides detailed instructions on how to install, build, and run the CCentreX System Utility application.
@@ -64,27 +63,8 @@ The `.iss` file should be configured to include files from the `build` directory
 
 You can also directly download the pre-built executable from the GitHub Releases:
 
-[Download CCentreX](https://github.com/yourusername/CCentreX/releases/download/v2.0/Stable_Build.zip)
+[Download CCentreX](https://drive.google.com/file/d/1xyr70kTxfpLrEhB26YcHPS5bUxyssNnv/view?usp=sharing)
 
-## Advanced Features
-
-### Command Snippets
-
-You can use the following terminal snippets to perform advanced configurations:
-
-```bash
-# Command to do something
-echo "Performing command"
-```
-
-### Handling Dark Mode
-
-Toggle dark mode in the application with:
-
-```bash
-# Toggle dark mode
-python scripts/toggle_dark_mode.py
-```
 
 ## Contributing
 
@@ -102,7 +82,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name – [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-Project Link: [https://github.com/yourusername/CCentreX](https://github.com/yourusername/CCentreX)
-```
+Your Name – Harjot Singh - harjotsinghtamber15@gmail.com
 
