@@ -22,12 +22,13 @@ You can also directly download the pre-built executable from the GitHub Releases
 
 ### Screenshots
 
-Here are some screenshots of the application in action:
+Here are some screenshots of the application in action, showing both the Light and Dark modes:
 
-![Main Interface](https://github.com/Harjot-15/CCentreX/blob/7c4add35c749b3d1c3824dc58569736f8de49e88/Images/Light-Mode.png)
-![Dark-Mode](https://github.com/Harjot-15/CCentreX/blob/7c4add35c749b3d1c3824dc58569736f8de49e88/Images/Dark-Mode.png)
+<p float="left">
+  <img src="https://github.com/Harjot-15/CCentreX/blob/7c4add35c749b3d1c3824dc58569736f8de49e88/Images/Light-Mode.png" width="45%" />
+  <img src="https://github.com/Harjot-15/CCentreX/blob/7c4add35c749b3d1c3824dc58569736f8de49e88/Images/Dark-Mode.png" width="45%" /> 
+</p>
 
-Replace `path/to/screenshot1.png` with the actual path to your screenshot files relative to the README file or a URL if they are hosted online.
 
 ## Building From Source
 
