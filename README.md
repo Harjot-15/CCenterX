@@ -6,6 +6,12 @@ It is a System Utitlies Tool That Includes   Windows 11  ➡️➡️➡️ 🔋
 
 Welcome to the CCentreX repository! This guide provides detailed instructions on how to install, build, and run the CCentreX System Utility application.
 
+## Download The Tool
+
+You can also directly download the pre-built executable from the GitHub Releases:
+
+[Download CCentreX](https://github.com/Harjot-15/CCentreX/releases/tag/v1.0)
+
 ## Installation
 
 ### Download and Install
@@ -59,12 +65,6 @@ To create an installer, you will need Inno Setup:
 
 The `.iss` file should be configured to include files from the `build` directory where the executable is located.
 
-## Download the Executable
-
-You can also directly download the pre-built executable from the GitHub Releases:
-
-[Download CCentreX](https://drive.google.com/file/d/1xyr70kTxfpLrEhB26YcHPS5bUxyssNnv/view?usp=sharing)
-
 
 ## Contributing
 
@@ -78,7 +78,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Harjot-15/CCentreX/blob/main/LICENSE)` for more information. 
+Distributed under the MIT License. See [LICENSE](https://github.com/Harjot-15/CCentreX/blob/main/LICENSE) for more information. 
 
 ## Contact
 
