@@ -24,8 +24,8 @@ You can also directly download the pre-built executable from the GitHub Releases
 
 Here are some screenshots of the application in action:
 
-![Main Interface](path/to/screenshot1.png)
-![Feature XYZ](path/to/screenshot2.png)
+![Main Interface](https://github.com/Harjot-15/CCentreX/blob/7c4add35c749b3d1c3824dc58569736f8de49e88/Images/Light-Mode.png)
+![Dark-Mode](https://github.com/Harjot-15/CCentreX/blob/7c4add35c749b3d1c3824dc58569736f8de49e88/Images/Dark-Mode.png)
 
 Replace `path/to/screenshot1.png` with the actual path to your screenshot files relative to the README file or a URL if they are hosted online.
 
