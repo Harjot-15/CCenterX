@@ -10,7 +10,7 @@ Welcome to the CCentreX repository! This guide provides detailed instructions on
 
 You can also directly download the pre-built executable from the GitHub Releases:
 
-[Download CCentreX](https://github.com/Harjot-15/CCentreX/releases/tag/v1.0)
+[Download CCentreX](https://github.com/Harjot-15/CCentreX/releases/tag/v2.0)
 
 ## Installation
 
