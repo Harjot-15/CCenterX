@@ -1,4 +1,4 @@
-# [Download CCentreX](https://github.com/Harjot-15/CCentreX/releases/tag/v2.O)
+# [Download CCentreX](https://github.com/Harjot-15/CCentreX/releases/tag/v2.1)
 It is a System Utitlies Tool That Includes   Windows 11  ➡️➡️➡️ 🔋Power Commands , 📁 Secret Explorer Folder Shortcuts, 🛠️ Maintenance and Repair Comands, 🔐 Security And Adminstaration Comands, 💻 System Components and Many More.
 
 
@@ -10,7 +10,7 @@ Welcome to the CCentreX repository! This guide provides detailed instructions on
 
 You can also directly download the pre-built executable from the GitHub Releases:
 
-[Download CCentreX](https://github.com/Harjot-15/CCentreX/releases/tag/v2.O)
+[Download CCentreX](https://github.com/Harjot-15/CCentreX/releases/tag/v2.1)
 
 ## Installation
 
