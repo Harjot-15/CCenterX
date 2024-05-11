@@ -25,8 +25,8 @@ You can also directly download the pre-built executable from the GitHub Releases
 Here are some screenshots of the application in action, showing both the Light and Dark modes:
 
 <p float="left">
-  <img src="https://github.com/Harjot-15/CCentreX/blob/7c4add35c749b3d1c3824dc58569736f8de49e88/Images/Light-Mode.png" width="45%" />
-  <img src="https://github.com/Harjot-15/CCentreX/blob/7c4add35c749b3d1c3824dc58569736f8de49e88/Images/Dark-Mode.png" width="45%" /> 
+  <img src="https://github.com/Harjot-15/CCentreX/blob/7c4add35c749b3d1c3824dc58569736f8de49e88/Images/Light Mode.png" width="45%" />
+  <img src="https://github.com/Harjot-15/CCentreX/blob/7c4add35c749b3d1c3824dc58569736f8de49e88/Images/Dark Mode.png" width="45%" /> 
 </p>
 
 
