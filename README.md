@@ -39,11 +39,11 @@ To build the application from source, follow these steps:
 
 Ensure you have the following software installed:
 - Python 3.x
-- PyQt5
+- PyQt6
 - cx_Freeze
 
 ```bash
-pip install PyQt5 cx_Freeze
+pip install PyQt6 cx_Freeze
 ```
 
 ### Build the Executable
