@@ -1,7 +1,7 @@
+<img src="https://github.com/Harjot-15/CCentreX/blob/0821d1cf3d5a75c52743b8ceffc79ad80a97be17/Images/Thumbnail/1.webp" width="30%" />
+
 # [Download CCenterX](https://github.com/Harjot-15/CCentreX/releases/tag/v2.1)
 It is a System Utitlies Tool That Includes   Windows 11  ➡️➡️➡️ 🔋Power Commands , 📁 Secret Explorer Folder Shortcuts, 🛠️ Maintenance and Repair Comands, 🔐 Security And Adminstaration Comands, 💻 System Components and Many More.
-
-<img src="https://github.com/Harjot-15/CCentreX/blob/0821d1cf3d5a75c52743b8ceffc79ad80a97be17/Images/Thumbnail/1.webp" width="60%" />
 
 
 # <img src="https://raw.githubusercontent.com/Harjot-15/CCentreX/main/Build%20Tools/H.ico" width="50" style="vertical-align: middle;" /> CCentreX
